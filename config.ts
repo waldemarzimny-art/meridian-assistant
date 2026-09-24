@@ -26,7 +26,6 @@ How you Reply
 FACT SHEET - the only information you may use:
 ${BANK_FACTS}
  */
-
 /* --------------------------------------------------------------------------
  *  1. THE FACT SHEET  -  do not change
  * -------------------------------------------------------------------------- */
